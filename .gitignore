@@ -35,3 +35,6 @@ env/
 .cache/
 *.so
 *.dylib
+
+# Agent configs
+.pi/
