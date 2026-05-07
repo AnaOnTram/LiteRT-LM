@@ -28,3 +28,10 @@ env/
 *.swp
 *.swo
 *~
+
+# Profiling & cache
+*.profraw
+*.prof
+.cache/
+*.so
+*.dylib
